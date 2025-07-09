@@ -73,7 +73,7 @@ const Hero = () => {
             className="text-4xl sm:text-5xl lg:text-6xl font-bold text-gray-900 mb-6 leading-tight"
           >
             Build the Future with
-            <span className="block text-primary-600 mt-2">Devxlab</span>
+            <span className="block text-primary-600 mt-2"> DevXLabs</span>
           </motion.h1>
 
           {/* Subtitle */}
